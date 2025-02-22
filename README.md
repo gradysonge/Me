@@ -4,8 +4,8 @@
 
 Je suis un passionné de **cybersécurité**, de **développement logiciel** et d'**intelligence artificielle**.
 
-- 🔍 **Pentester & Analyste en Sécurité et hacker ethique **
-- 💻 **Développeur Full-Stack** (React, Node.js, SQL)
+- 🔍 **Pentester & Analyste en Sécurité et hacker ethique**
+- 💻 **Développeur Full-Stack** 
 - 🤖 **Passionné par l'IA et le Deep Learning**
 - 🌎 Basé sur **Mars**
 
@@ -13,7 +13,7 @@ Je suis un passionné de **cybersécurité**, de **développement logiciel** et 
 
 ## 🛠 **Technologies et Outils**
 
-🔹 **Tech** : Python, JavaScript, SQL, C++ , Shell ,C# 
+🔹 **Tech** : Python, JavaScript + WEB, SQL, C++ , Shell ,C# 
 🔹 **Sécurité** : Kali Linux -Parrot OS et  outils Cybernetique exploités  par moi meme  
 
 ---
