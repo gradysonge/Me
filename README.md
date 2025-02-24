@@ -7,7 +7,7 @@ Je suis un passionné de **cybersécurité - Hacker**, de **développement logic
 - 🔍 **Pentester & Analyste en Sécurité et hacker ethique**
 - 💻 **Développeur Full-Stack** 
 - 🤖 **Passionné par l'IA et le Deep Learning**
-- 🌎 Basé sur **Mars**
+- 🌎 Basé sur **Localhost**
 
 ---
 
