@@ -2,7 +2,7 @@
 
 ## 🛠️ **À propos de moi**
 
-Je suis un passionné de **cybersécurité**, de **développement logiciel** et d'**intelligence artificielle**.
+Je suis un passionné de **cybersécurité - Hacker **, de **développement logiciel - Reverse engeneering ** et d'**intelligence artificielle**.
 
 - 🔍 **Pentester & Analyste en Sécurité et hacker ethique**
 - 💻 **Développeur Full-Stack** 
